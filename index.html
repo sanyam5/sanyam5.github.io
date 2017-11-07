@@ -1,48 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+---
+layout: default
+---
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-    <title>sanyam5.github.io by sanyam5</title>
-  </head>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-  <body>
-
-    <header>
-      <div class="container">
-        <h1>Sanyam Agarwal</h1>
-        <h2>stay hungry. stay foolish</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/sanyam5" class="btn btn-github"><span class="icon"></span>My GitHub</a>
-        </section>
+      <div class="entry">
+        {{ post.excerpt }}
       </div>
-    </header>
 
-    <div class="container">
-      <section id="main_content">
-        <h1>
-<a class="anchor" href="#about-me"><span class="octicon octicon-link"></span></a>About Me.</h1>
-
-<p>An amateur actor, singer and mimicry artist. Interested in Machine Learning, Philosophy, Psychology and technology in general. </p>
-
-<p>Say hi to me on gmail: sanyam [dot] agarwal94</p>
-        
-<ul>
-  <li>Jan 2017: Started teaching myself Deep Learning and applying it at work.</li>
-  <li>June 2016: Started working for a startup that applies machine learning to automation. </li>
-  <li>May 2016: Completed Bachelor's in Computer Science and Engineering from IIT Kharagpur. </li>
-</ul>
-        
-<p>It's never too late!</p>
-      </section>
-    </div>
-
-    
-  </body>
-</html>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
