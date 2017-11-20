@@ -1,7 +1,4 @@
 
-*Note: I initially wrote this blog on Medium, [here](https://medium.com/@sanyamagarwal/understanding-attentive-recurrent-comparators-ea1b741da5c3). But unfortunately, Medium has disabled embedding blogs so I had manually copy it here.*
-
-
 I recently came across an [ICML’17 paper “Attentive Recurrent Comparators”](https://arxiv.org/abs/1703.00767) which proposes a simple yet powerful model for data efficient learning. The paper presents the **first super-human** One-shot Classification performance on the Omniglot dataset using only raw pixel information!
 In this blog post I am going to present my understanding of the main ideas of the paper. The authors of the paper also released an implementation using Theano. But I found the implementation a bit difficult to follow. So as an exercise I actually went ahead and re-implemented it in PyTorch. Code at [https://github.com/sanyam5/arc-pytorch](https://github.com/sanyam5/arc-pytorch)
 
@@ -191,3 +188,6 @@ Using simple ARC based models the authors achieve first superhuman One-shot Clas
 I think this really was a novel and simple approach with good results. This is also a positive step towards achieving true Dynamic Representations.
 
 Hope you liked it! Please leave any comments below. Checkout my implementation of the ARCs at [https://github.com/sanyam5/arc-pytorch](https://github.com/sanyam5/arc-pytorch)
+
+
+*Note: I initially wrote this blog on Medium, [here](https://medium.com/@sanyamagarwal/understanding-attentive-recurrent-comparators-ea1b741da5c3). But unfortunately, Medium has disabled embedding blogs so I had manually copy it here.*

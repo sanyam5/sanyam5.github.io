@@ -1,0 +1,6 @@
+*Note this blog assumes that the reader is familiar with the basic principles of Auto-Encoders. If you have never heard about Auto-Encoders please check out the first few pages of [the Chapter 14 of the Deep Learning book](http://www.deeplearningbook.org/contents/autoencoders.html)*
+
+
+## Basic Idea
+
+Auto-Encoders are widely used in Unsupervised Learning. Unsupervised Learning is the problem of learning meaningful representations from unlabelled data. For e.g. learning to differentiate between a cat and dog from unlabelled images of cats and dogs comes under the domain of Unsupervised Learning. Auto-Encoders leverage the fact that 
