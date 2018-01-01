@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi my name is Sanyam Agarwal. I am working as a Research Assistant the [Statistics and Machine Learning Lab at the Indian Institute of Science, Bangalore](http://sml.csa.iisc.ernet.in/SML/). I am currently working on Semi-/Unsupervised Learning.
+
+I completed my Bachelor's in Computer Science and Engineering from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) in May 2016. I just love computer science. Checkout my [GitHub](http://github.com/sanyam5). 
+
+I am also part-time actor. I sometimes sing and do stand-up comedy and I love travelling.
+
+<br>
+<br>
+
+-------------
+
+
+<p float="left">
+ <img src="/images/me/sing.jpg"  width="340"> <img src="/images/me/god.jpg"  width="340">
+ <img src="/images/me/sea.jpg"  width="340"> <img src="/images/me/wall.jpg"  width="340"> 
+<img src="/images/me/shake.jpg"  width="340"> 
+</p>
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love reading and discussing about Physics and the universe in my free time. Open-ended discussions on consciousness, intelligence, morals, etc. excite me. Drop a mail in case you are interested in discussing any of the above.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sanyam.agarwal94@gmail.com](mailto:sanyam.agarwal94@gmail.com)
