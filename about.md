@@ -10,17 +10,6 @@ I completed my Bachelor's in Computer Science and Engineering from the [Indian I
 
 I am also part-time actor. I sometimes sing and do stand-up comedy and I love travelling.
 
-<br>
-<br>
-
--------------
-
-
-<p float="left">
- <img src="/images/me/sing.jpg"  width="340"> <img src="/images/me/god.jpg"  width="340">
- <img src="/images/me/sea.jpg"  width="340"> <img src="/images/me/wall.jpg"  width="340"> 
-<img src="/images/me/shake.jpg"  width="340"> 
-</p>
 
 ### More Information
 
@@ -29,3 +18,18 @@ I love reading and discussing about Physics and the universe in my free time. Op
 ### Contact me
 
 [sanyam.agarwal94@gmail.com](mailto:sanyam.agarwal94@gmail.com)
+
+<br>
+<br>
+
+-------------
+
+
+<p float="left">
+ <img src="/images/me/sing.jpg"  width="680"> 
+ <img src="/images/me/god.jpg"  width="680">
+ <img src="/images/me/sea.jpg"  width="680"> 
+ <img src="/images/me/wall.jpg"  width="680"> 
+<img src="/images/me/shake.jpg"  width="680"> 
+</p>
+
