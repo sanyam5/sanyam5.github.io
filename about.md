@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi my name is Sanyam Agarwal. I am currently a Visiting Research Scholar at the [Machine Learning and Perception lab at Georgia Tech](http://mlp.cc.gatech.edu/) led by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I work on Machine Learning problems at the intersection of vision and Langugage.
+Hi my name is Sanyam Agarwal. I am currently a Visiting Research Scholar at the [Machine Learning and Perception lab at Georgia Tech](http://mlp.cc.gatech.edu/) led by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I work on Machine Learning problems at the intersection of vision and language.
 
 I completed my Bachelor's in Computer Science and Engineering from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) in May 2016. I just love computer science. Checkout my [GitHub](http://github.com/sanyam5). 
 
