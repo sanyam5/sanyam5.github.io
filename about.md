@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi my name is Sanyam Agarwal. I am working as a Research Assistant the [Statistics and Machine Learning Lab at the Indian Institute of Science, Bangalore](http://sml.csa.iisc.ernet.in/SML/). I am currently working on Semi-/Unsupervised Learning.
+Hi my name is Sanyam Agarwal. I am currently a Visiting Research Scholar at the [Machine Learning and Perception lab at Georgia Tech](http://mlp.cc.gatech.edu/) led by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I work on Machine Learning at the intersection of vision and Langugage.
 
 I completed my Bachelor's in Computer Science and Engineering from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) in May 2016. I just love computer science. Checkout my [GitHub](http://github.com/sanyam5). 
 
