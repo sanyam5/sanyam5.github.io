@@ -1,5 +1,4 @@
-
-As part of a project I was working on, I had to read the research paper [Skip-Thought Vectors by Kiros et. al](https://arxiv.org/abs/1506.06726) with a magnifying glass and also implement it in PyTorch. In this process, I learnt quite a lot about why Skip-Thought works so well despite being very straightforward in principle. In this blog, I would like to share what goes behind the scenes in Skip-Thoughts — small things that actually make it work.
+**Dec 31 2017** - As part of a project I was working on, I had to read the research paper [Skip-Thought Vectors by Kiros et. al](https://arxiv.org/abs/1506.06726) with a magnifying glass and also implement it in PyTorch. In this process, I learnt quite a lot about why Skip-Thought works so well despite being very straightforward in principle. In this blog, I would like to share what goes behind the scenes in Skip-Thoughts — small things that actually make it work.
 
 My GitHub implementation: [https://github.com/sanyam5/skip-thoughts](https://github.com/sanyam5/skip-thoughts)
 

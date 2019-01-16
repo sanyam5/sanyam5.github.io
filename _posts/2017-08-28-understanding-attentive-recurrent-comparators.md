@@ -1,5 +1,4 @@
-
-I recently came across an [ICML’17 paper “Attentive Recurrent Comparators”](https://arxiv.org/abs/1703.00767) which proposes a simple yet powerful model for data efficient learning. The paper presents the **first super-human** One-shot Classification performance on the Omniglot dataset using only raw pixel information!
+**Aug 28 2017** - I recently came across an [ICML’17 paper “Attentive Recurrent Comparators”](https://arxiv.org/abs/1703.00767) which proposes a simple yet powerful model for data efficient learning. The paper presents the **first super-human** One-shot Classification performance on the Omniglot dataset using only raw pixel information!
 In this blog post I am going to present my understanding of the main ideas of the paper. The authors of the paper also released an implementation using Theano. But I found the implementation a bit difficult to follow. So as an exercise I actually went ahead and re-implemented it in PyTorch. Code at [https://github.com/sanyam5/arc-pytorch](https://github.com/sanyam5/arc-pytorch)
 
 
