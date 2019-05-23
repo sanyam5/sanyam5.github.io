@@ -56,6 +56,8 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
         </div>
         <div class="col-md-8 col-sm-8 col-lg-8">
             <div style="font-size:14px">
+                    <br>
+                    <br>
                     Instruction following for vision-and-language navigation
                     (VLN) has prompted significant research efforts developing
                     more powerful “follower” models since its inception.
@@ -112,6 +114,8 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
         </div>
         <div class="col-md-8 col-sm-8 col-lg-8">
             <div style="font-size:14px">
+                <br>
+                <br>
                 Room-to-Room <a href="https://bringmeaspoon.org/" target="_blank"> dataset </a> is a commond dataset used in several vision and language navigation tasks. The dataset contains real-world panoramic scans of building interiors provided my the <a href="https://niessner.github.io/Matterport/" target="_blank"> Matterport3D dataset </a>. An agent can choose to move in this 3D environment by taking actions. I optimized the original <a href="https://github.com/peteanderson80/Matterport3DSimulator" target="_blank"> Room-to-Room simulator </a>
                 to use GPU for state update operations when the agent takes any actions. Combined with caching of repeated computations this resulted in a simulator that is <b> 17x </b> faster frame rate on a single GPU! Training time of most vision-and-language models can be brought down significantly using this simulator instead of the original simulator.
                 
@@ -168,6 +172,8 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
             <div style="text-align: center;"> A sample Phrase-Cloud representing the proportion of papers for an area.</div>
         </div>
         <div class="col-md-8 col-sm-8 col-lg-8">
+            <br>
+            <br>
             <div style="font-size:14px">
                 A rule-based information extraction framework that automatically constructs a knowledge base of all application areas and problem solving "techniques", given a text corpus of research papers. "Techniques" include tools, methods, datasets or evaluation metrics. We also categorize individual research articles based on their application areas and the techniques proposed/improved in the article. Our system achieves high average precision (~82%) and recall (~84%) in knowledge base creation. It also performs well in application and technique assignment to an individual article (average accuracy ~66%). We demonstrated the framework for the domain of computational linguistics but this can be easily generalized to any other field of research.
                 
