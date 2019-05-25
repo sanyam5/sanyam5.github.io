@@ -9,7 +9,32 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
 
 <br>
 
-## Selected Projects
+
+
+
+## Select Awards / Honors
+---------------
+
+- Aug 2009 -- **NTSE Scholarship (National Talent Search Examination)** by Department of Science and Technology, Government of India
+    - Awarded to less than 1% applicants based on their scholastic achievements.
+- Aug 2011 -- **KVPY Fellow (Kishore Vaigyanik Protsahan Yojana Fellow)** by Department of Science and Technology, Government of India
+    - Awarded to just ~100 students all over India with high academic potential.
+    
+- Sept. 2012 -- **Aditya Birla Scholarship** by Aditya Birla Group
+    - Awarded to just 15 students all over the from the best engineering and management colleges of India.
+    
+- Feb 2013 -- **OP Jindal Engineering and Management Scholarship** by OP Jindal Group
+    - Awarded to just 4 students from each of the few top-tier engineering and management colleges in India.
+
+<br>
+
+
+
+
+
+## Publications
+--------------
+
 <br>
 
 <div class="container">
@@ -40,9 +65,9 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
     
                     CVPR 2019 Workshop on Deep Learning for Semantic Visual Navigation
                     <br>
-                    <a href="/files/cvpr-workshop.pdf" target="_blank">pdf</a>
+                    [<a href="/files/cvpr-workshop.pdf" target="_blank">pdf</a>]
                     /
-                    <a >code(to be released)</a>          
+                    <a >code(to be released soon)</a>          
                 </div>
             </div>
             </div>
@@ -79,50 +104,7 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
     </div>
     
     
-    
-    <br>
-    <br>
-    
-                
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="row">
-            
-                <div class="col-md-12 col-sm-12 col-lg-12">
-                    <b>Fast GPU-Based Simulator for Room-to-Room dataset</b>
-                </div>
-                
-            </div>
-                
-            <div class="row">
-                
-                <div class="col-md-12 col-sm-12 col-lg-12">
-                    <a >code(to be released)</a>
-                </div>
-            </div>
-            </div>
-            
-    </div>
-        
-        
-    
 
-    <div class="row">
-        <div class="col-md-4 col-sm-4 col-lg-4">
-            <div><img align="left" src="/images/projects/r2r.gif" width="100%"></div>
-            <div style="text-align: center;"> Sample trajectory in Room-to-Room dataset</div>
-        </div>
-        <div class="col-md-8 col-sm-8 col-lg-8">
-            <div style="font-size:14px">
-                <br>
-                <br>
-                Room-to-Room <a href="https://bringmeaspoon.org/" target="_blank"> dataset </a> is a commond dataset used in several vision and language navigation tasks. The dataset contains real-world panoramic scans of building interiors provided my the <a href="https://niessner.github.io/Matterport/" target="_blank"> Matterport3D dataset </a>. An agent can choose to move in this 3D environment by taking actions. I optimized the original <a href="https://github.com/peteanderson80/Matterport3DSimulator" target="_blank"> Room-to-Room simulator </a>
-                to use GPU for state update operations when the agent takes any actions. Combined with caching of repeated computations this resulted in a simulator that is <b> 17x </b> faster frame rate on a single GPU! Training time of most vision-and-language models can be brought down significantly using this simulator instead of the original simulator.
-                
-            </div>
-        </div>
-    </div>
-    
 
 
 
@@ -159,7 +141,7 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
     
                     Joint Conference on Digital Libraries (JCDL) 2017:6th International Workshop On Mining Scientific Publications
                     <br>
-                    <a href="https://arxiv.org/abs/1709.03064" target="_blank">pdf</a>                   
+                    [<a href="https://arxiv.org/abs/1709.03064" target="_blank">pdf</a>]                   
                 </div>
             </div>
             </div>
@@ -184,4 +166,240 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
     
     
 </div>
+
+
+<br>
+<br>
+
+
+## Select Projects
+-------------
+
+<div class="container">
+
+    
+
+    
+                
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-lg-12">
+        <div class="row">
+        
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <b>Fast GPU-Based Simulator for Room-to-Room dataset</b>
+            </div>
+            
+        </div>
+            
+        <div class="row">
+            
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <a >code(to be released)</a>
+            </div>
+        </div>
+        </div>
+            
+    </div>
+        
+        
+    
+
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-lg-4">
+            <div><img align="left" src="/images/projects/r2r.gif" width="100%"></div>
+            <div style="text-align: center;"> Sample trajectory in Room-to-Room dataset</div>
+        </div>
+        <div class="col-md-8 col-sm-8 col-lg-8">
+            <div style="font-size:14px">
+                <br>
+                <br>
+                Room-to-Room <a href="https://bringmeaspoon.org/" target="_blank"> dataset </a> is a commond dataset used in several vision and language navigation tasks. The dataset contains real-world panoramic scans of building interiors provided my the <a href="https://niessner.github.io/Matterport/" target="_blank"> Matterport3D dataset </a>. An agent can choose to move in this 3D environment by taking actions. I optimized the original <a href="https://github.com/peteanderson80/Matterport3DSimulator" target="_blank"> Room-to-Room simulator </a>
+                to use GPU for state update operations when the agent takes any actions. Combined with caching of repeated computations this resulted in a simulator that is <b> 17x </b> faster frame rate on a single GPU! Training time of most vision-and-language models can be brought down significantly using this simulator instead of the original simulator.
+                
+            </div>
+        </div>
+    </div>
+
+
+<br>
+<br>
+
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-lg-12">
+        <div class="row">
+        
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <b>ICLR 2018 reproducibility challenge: Interpretable Counting for Visual Question Answering</b>
+            </div>
+            
+        </div>
+            
+        <div class="row">
+            
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                [<a href="https://github.com/sanyam5/irlc-vqa-counting" target="_blank">code</a>]
+                
+            </div>
+        </div>
+        </div>
+            
+    </div>
+        
+
+
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-lg-4">
+            <div><img align="left" src="/images/projects/irlc.gif" width="100%"></div>
+            <div style="text-align: center;"> Ques: How many sheepskin are grazing?</div>
+        </div>
+        <div class="col-md-8 col-sm-8 col-lg-8">
+            <div style="font-size:14px">
+                <br>
+                <br>
+                The paper improves upon the state-of-the art accuracy for counting based questions in VQA. They do it by enforcing the prior that each count corresponds to a well defined region in the image and is not diffused all over it. They hard-attend over a fixed set of candiate regions (taken from pre-trained Faster-R-CNN network) in the image by fusing it with the information from the question. They use a variant of REINFORCE - Self Critical Training - which is well suited for generating sequences.
+                
+            </div>
+        </div>
+    </div>
+
+
+<br>
+<br>
+
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-lg-12">
+        <div class="row">
+        
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <b>The first public PyTorch implementations of Skip-Thought Vectors</b>
+            </div>
+            
+        </div>
+            
+        <div class="row">
+            
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                [<a href="https://github.com/sanyam5/skip-thoughts" target="_blank">code</a>]
+                [<a href="http://sanyam5.github.io/my-thoughts-on-skip-thoughts/" target="_blank">blog</a>]
+            </div>
+        </div>
+        </div>
+            
+    </div>
+        
+        
+    
+
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-lg-4">
+            <div><img align="left" src="/images/projects/skip-thoughts.png" width="100%"></div>
+            <div style="text-align: center;"> Skip-Thoughts model</div>
+        </div>
+        <div class="col-md-8 col-sm-8 col-lg-8">
+            <div style="font-size:14px">
+                <br>
+                <br>
+                Skip-Thoughts uses the order of the sentences to “self-supervise” itself. The underlying assumption here is that whatever, in the content of a sentence, leads to a better reconstruction of the neighbouring sentences is also the essence of the sentence.
+
+The decoders are trained to minimise the reconstruction error of the previous and the next sentences given the embedding of current sentence. This reconstruction error is back-propagated to the Encoder which must now pack as much information about the current sentence that will help the Decoders minimise the error in generating the previous and next sentences.
+                
+            </div>
+        </div>
+    </div>
+
+
+
+<br>
+<br>
+
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-lg-12">
+        <div class="row">
+        
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <b>The first public PyTorch implementations of Attentive Recurrent Comparators</b>
+            </div>
+            
+        </div>
+            
+        <div class="row">
+            
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                [<a href="https://github.com/sanyam5/arc-pytorch" target="_blank">code</a>]
+                [<a href="http://sanyam5.github.io/understanding-attentive-recurrent-comparators/" target="_blank">blog</a>]
+            </div>
+        </div>
+        </div>
+            
+    </div>
+        
+        
+    
+
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-lg-4">
+            <div><img align="left" src="/images/projects/arc1.gif" width="100%"></div>
+            <div style="text-align: center;"> ARC comparing between two images of the same character</div>
+        </div>
+        <div class="col-md-8 col-sm-8 col-lg-8">
+            <div style="font-size:14px">
+                <br>
+                <br>
+                Attentive Recurrent comparators state of the art performance in one-shot learning on the Omniglot dataset. The key idea is to make the training phase as close as possible to evaluation phase. Since the evaluation phase is comparitive, making the training phase also comparitive will lead to better generalization. In training, the model learns to compare between two randomly chosen images of either same or different characters.
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+<br>
+<br>
+
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-lg-12">
+        <div class="row">
+        
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                <b>Robot Soccer, IIT Kharagpur</b>
+            </div>
+            
+        </div>
+            
+        <div class="row">
+            
+            <div class="col-md-12 col-sm-12 col-lg-12">
+                [<a href="https://krssg.in/index.html" target="_blank" >Group Website</a>]
+            </div>
+        </div>
+        </div>
+            
+    </div>
+        
+        
+    
+
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-lg-4">
+            <div><img align="left" src="/images/projects/fira2k15.jpg" width="100%"></div>
+            <div style="text-align: center;"> Bronze medal at FIRA 2015, South Korea</div>
+        </div>
+        <div class="col-md-8 col-sm-8 col-lg-8">
+            <div style="font-size:14px">
+            
+            <br>
+                Led the Artificial Intelligence team. Created a framework for learning robot control policies for playing soccer using Q-Learning. Our group won Bronze medal in FIRA 2015, South Korea.
+                
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+
 
