@@ -30,8 +30,6 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
 
 
 
-
-
 ## Publications
 --------------
 
@@ -169,6 +167,25 @@ I am currently a Visiting Research Scholar at the [Machine Learning and Percepti
 
 
 <br>
+<br>
+
+
+## Patents
+-----------
+
+#### SYSTEMS AND METHODS FOR EXECUTING SOFTWARE ROBOT COMPUTER PROGRAMS ON VIRTUAL MACHINES
+
+Publication number: 20180189093
+
+Abstract: Techniques for executing one or more instances of a computer program using virtual machines, the computer program comprising multiple computer program portions including a first computer program portion. The techniques include determining whether an instance of any of the multiple computer program portions is to be executed; when it is determined that a first instance of the first computer program portion is to be executed, accessing first information specifying a first set of one or more virtual machine resources required for executing the first instance of the first computer program portion; determining whether any one of the plurality of virtual machines has at least the first set of virtual machine resources available; and when it is determined that a first of the plurality of virtual machines has the first set virtual machine resources available, causing the first virtual machine to execute the first instance of the first computer program portion.
+
+Filed: January 5, 2018
+
+Publication date: July 5, 2018
+
+Inventors: **Sanyam Agarwal**, Rohan Narayan Murty, George Peter Nychis, Wolfgang Richter, Nishant Kumar Jain, Surabhi Mour, Shreyas H. Karanth, Shashank Anand
+
+
 <br>
 
 
