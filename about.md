@@ -4,8 +4,16 @@ title: About
 permalink: /
 ---
 
+News
+----
+Please help me promote this [channel called Friends in Education](https://www.youtube.com/channel/UCM5WZUS-lGaajtWo2AvSHmA). They are providing free online lectures for school going students who cannot go out during the Coronavirus lockdown.
 
-I am currently a Visiting Research Scholar at the [Machine Learning and Perception lab at Georgia Tech](http://mlp.cc.gatech.edu/) led by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I work on Machine Learning problems at the intersection of vision and language. Prior to that I was on a research internship at the [Statistics and Machine Learning Group at Indian Institute of Science, Bangalore](http://sml.csa.iisc.ernet.in/SML/). Before that I was working as a Platform Engineer at [Soroco](http://soroco.com/). I completed my Bachelor's in Computer Science and Engineering from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) in May 2016.
+
+About
+-----
+I have joined Google at it's Bangalore office. I am working in areas related to Machine Learning and Natural Language Processing. 
+
+Before that, I was a Visiting Research Scholar at the [Machine Learning and Perception lab at Georgia Tech](http://mlp.cc.gatech.edu/) led by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I work on Machine Learning problems at the intersection of vision and language. Prior to that I was on a research internship at the [Statistics and Machine Learning Group at Indian Institute of Science, Bangalore](http://sml.csa.iisc.ernet.in/SML/). Before that I was working as a Platform Engineer at [Soroco](http://soroco.com/). I completed my Bachelor's in Computer Science and Engineering from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) in May 2016.
 
 <br>
 
